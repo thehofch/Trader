@@ -56,11 +56,15 @@
 <VehicleSpawn>			8365.18,	292.017,	5987.68
 <VehicleSpawnOri>		-90,		0,			0
 
-//ADD BLACK MARKET HERE ID 7
+
+// Ebenya
+
 <TraderMarker> 			7
+<TraderMarkerPosition>	15121.066406, 9.534022, 13809.273438
+<TraderMarkerSafezone>	30
 
 //ADD DRUG DEALER HERE ID 8
-<TraderMarker> 			8
+// <TraderMarker> 			8
 
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
@@ -452,6 +456,17 @@
 <ObjectPosition> 8360.15, 292.054, 5994.15
 <ObjectOrientation> 325, 0, 0
 
+// Ebenya
+
+<Object> 			SurvivorM_Jose
+<ObjectPosition>	15121.066406, 9.534022, 13809.273438
+<ObjectOrientation>	0, 0, 0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
 
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
 <FileEnd>												// This has to be on the End of this File and is very importand!

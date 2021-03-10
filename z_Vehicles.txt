@@ -16,4 +16,5 @@
         CivilianSedan_Wine,               *,                                          VNK,                 6,                -1
         CivilianSedan_Black,              *,                                          VNK,                 6,                -1
 
+<OpenFile> z_Forex.txt
 <FileEnd>							// This has to be on the End of this File and is very importand!

@@ -14,8 +14,8 @@
 // 4 = Ammo
 // 5 = Clothes
 // 6 = Cars = Gold
-// 7 = BlackMarket = Euro
-// 8 = DrugDealer = Dollars
+
+// 7 = Forex Trader
 
 // Quantity * means max value;
 // Quantity V means Vehicle;

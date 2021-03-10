@@ -1,0 +1,4 @@
+<Trader> Forex Trader
+    <Category> Currency
+        Bitcoin, *, *, 100000, 96000
+<FileEnd>
