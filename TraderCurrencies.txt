@@ -44,27 +44,10 @@
 	<Currency> MoneyRuble100  ,100
 
 // Cars
-<CurrencyName> Gold Bars
-	<Currency> Goldbar_Base    ,1
-
-// Black Market
-<CurrencyName> Euros
-	<Currency> Money_Euro1, 	1
-	<Currency> Money_Euro2, 	2
-	<Currency> Money_Euro5, 	5
-	<Currency> Money_Euro10, 	10
-	<Currency> Money_Euro20, 	20
-	<Currency> Money_Euro50, 	50
-	<Currency> Money_Euro100, 	100
-	<Currency> Money_Euro200, 	200
-	<Currency> Money_Euro500, 	500
-
-// Druglord
-<CurrencyName> Dollar
-	<Currency> Money_Dollar1, 	1
-	<Currency> Money_Dollar2, 	2
-	<Currency> Money_Dollar5, 	5
-	<Currency> Money_Dollar10, 	10
-	<Currency> Money_Dollar20, 	20
-	<Currency> Money_Dollar50, 	50
-	<Currency> Money_Dollar100, 100
+<CurrencyName> #tm_ruble							            
+	<Currency> MoneyRuble1    ,1					
+	<Currency> MoneyRuble5    ,5
+	<Currency> MoneyRuble10   ,10
+	<Currency> MoneyRuble25   ,25
+	<Currency> MoneyRuble50   ,50
+	<Currency> MoneyRuble100  ,100

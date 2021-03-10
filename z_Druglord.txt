@@ -1,7 +1,0 @@
-<Trader> Druglord
-	<Category> Gold
-        // CLASS NAME                      // DISPLAY NAME (* FOR DEFAULT)             // QTY               //BUY              //SELL
-        Goldbar_Base,                      *,                                          1,                   200000,            200000
-
-//<OpenFile> END		            // Links to another File; Must be right above <FileEnd>!
-<FileEnd>							// This has to be on the End of this File and is very importand!
