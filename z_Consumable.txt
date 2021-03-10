@@ -1,22 +1,5 @@
 
 <Trader> Consumable Trader
-    <Category> Money Exchange
-        // CLASS NAME                            // DISPLAY NAME (BLANK FOR DEFAULT)             // QTY               //BUY              //SELL
-        == RUBLES ==,                            *,                                              1,                   -1,                -1
-        MoneyRuble1,                             *,                                              1,                   1,                 -1
-        MoneyRuble5,                             *,                                              1,                   5,                 -1
-        MoneyRuble10,                            *,                                              1,                   10,                -1
-        MoneyRuble25,                            *,                                              1,                   25,                -1
-        MoneyRuble50,                            *,                                              1,                   50,                -1
-        MoneyRuble100,                           *,                                              1,                   100,               -1
-        == EUROS ==  ,                           *,                                              1,                   -1,                -1
-		Money_Euro500,                           2500 Euro  (5x €500 note),                      5,                   25000,              25000
-		Money_Euro500,                           5000 Euro  (10x €500 note),                     10,                  50000,              50000
-		Money_Euro500,                           10000 Euro (20x €500 note),                     20,                  100000,             100000
-        == DOLLARS ==,                           *,                                              1,                   -1,                 -1
-		Money_Dollar100,                         2500 USD  (50x $100 note),                      50,                  25000,              25000
-		Money_Dollar100,                         2500 USD  (100x $100 note),                     100,                 50000,              50000	
-                            
     <Category> Vegetables            
         CaninaBerry,                              *,                                             *,                   111,                 -1
         SambucusBerry,                            *,                                             *,                   100,                 -1

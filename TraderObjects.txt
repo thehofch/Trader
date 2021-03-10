@@ -205,6 +205,10 @@
 <ObjectPosition>	3698.21,	402.012,	6003.26
 <ObjectOrientation>	0,			0,			0
 
+<Object> DC_BankingATMOrange
+<ObjectPosition> 3706.7, 402.012, 5984.86
+<ObjectOrientation> 90, 0, 0
+
 // Kumyrna:
 
 <Object> 			SurvivorM_Niki
@@ -443,6 +447,10 @@
 <Object>			BarrelHoles_Red
 <ObjectPosition>	8353.61,	292.006,	5982.2
 <ObjectOrientation>	0,			0,			0
+
+<Object> DC_BankingATMWhite
+<ObjectPosition> 8360.15, 292.054, 5994.15
+<ObjectOrientation> 325, 0, 0
 
 
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
