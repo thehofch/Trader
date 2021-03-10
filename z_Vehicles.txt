@@ -1,0 +1,20 @@
+
+// Use VNK instead of V as Quantity to not give a Vehicle Key
+<Trader> Vehicles Trader
+    <Category> Vehicles
+        // CLASS NAME                     // DISPLAY NAME (* FOR DEFAULT)             // QTY               //BUY              //SELL
+        OffroadHatchback,                 *,                                          VNK,                 2,                -1	
+        OffroadHatchback_Blue,            *,                                          VNK,                 2,                -1
+        OffroadHatchback_White,           *,                                          VNK,                 2,                -1
+        Hatchback_02,                     *,                                          VNK,                 3,                -1
+        Hatchback_02_Blue,                *,                                          VNK,                 3,                -1
+        Hatchback_02_Black,               *,                                          VNK,                 3,                -1
+        Sedan_02,                         *,                                          VNK,                 5,                -1
+        Sedan_02_Red,                     *,                                          VNK,                 5,                -1
+        Sedan_02_Grey,                    *,                                          VNK,                 5,                -1
+        CivilianSedan,                    *,                                          VNK,                 6,                -1
+        CivilianSedan_Wine,               *,                                          VNK,                 6,                -1
+        CivilianSedan_Black,              *,                                          VNK,                 6,                -1
+
+<OpenFile> z_BlackMarket.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>							// This has to be on the End of this File and is very importand!

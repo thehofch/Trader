@@ -145,6 +145,7 @@
 	CivSedanWheel
 	CivSedanWheel
 
+
 <VehicleParts> Sedan_02
 	SparkPlug
 	CarBattery
@@ -194,55 +195,7 @@
 	Sedan_02_Wheel
 	Sedan_02_Wheel
 	Sedan_02_Wheel
-	Sedan_02_Wheel
-
-<VehicleParts>Truck_01_Covered
-    TruckBattery
-	Truck_01_Door_1_1
-	Truck_01_Door_2_1
-	Truck_01_Hood
-	Truck_01_Wheel
-	Truck_01_WheelDouble
-	SparkPlug
-	HeadlightH7
-	HeadlightH7
-	CarRadiator
-	Truck_01_Wheel
-	Truck_01_WheelDouble
-	Truck_01_WheelDouble
-	Truck_01_WheelDouble
-
-<VehicleParts>Truck_01_Covered_Blue
-     TruckBattery
-	Truck_01_Wheel
-	Truck_01_WheelDouble
-	Truck_01_Hood_Blue
-	Truck_01_Door_2_1_Blue
-	Truck_01_Door_1_1_Blue
-	SparkPlug
-	HeadlightH7
-	HeadlightH7
-	CarRadiator
-	Truck_01_Wheel
-	Truck_01_WheelDouble
-	Truck_01_WheelDouble
-	Truck_01_WheelDouble
-
-<VehicleParts>Truck_01_Covered_Orange
-     TruckBattery
-	Truck_01_Wheel
-	Truck_01_WheelDouble
-	Truck_01_Hood_Orange
-	Truck_01_Door_2_1_Orange
-	Truck_01_Door_1_1_Orange
-	SparkPlug
-	HeadlightH7
-	HeadlightH7
-	CarRadiator
-	Truck_01_Wheel
-	Truck_01_WheelDouble
-	Truck_01_WheelDouble
-	Truck_01_WheelDouble
+	Sedan_02_Wheel		
 	
 	
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!

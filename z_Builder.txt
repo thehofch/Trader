@@ -1,0 +1,17 @@
+<Trader> Builder Trader
+    // SONSRaidTools
+    <Category> Raid Tools
+        // CLASS NAME                      // DISPLAY NAME (* FOR DEFAULT)             // QTY               //BUY              //SELL
+        RaidHacksaw,                      *,                                           *,                   -1,                250000
+        RaidSledgeHammer,                 *,                                           *,                   -1,                250000
+        RaidLockpick,                     *,                                           *,                   -1,                250000
+
+    <Category> Tools (small)                                                                  
+        Screwdriver,                      *,                                           *,                   15000,              5000
+        Wrench,                           *,                                           *,                   15000,              5000
+        SewingKit,                        *,                                           *,                   5000,               1000
+        Pliers,                           *,                                           *,                   25000,              11000
+        LeatherSewingKit,                 *,                                           *,                   5000,               1000
+
+<OpenFile> z_Weapons.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>						// This has to be on the End of this File and is very importand!

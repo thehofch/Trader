@@ -1,0 +1,16 @@
+<Trader> Clothing Trader
+    <Category> Glasses
+        // CLASS NAME                      // DISPLAY NAME (* FOR DEFAULT)             // QTY               //BUY              //SELL
+        SportGlasses_Orange,               *,                                          *,                   170,               80
+        SportGlasses_Blue,                 *,                                          *,                   180,               90
+        SportGlasses_Black,                *,                                          *,                   200,               100
+        SportGlasses_Green,                *,                                          *,                   200,               100
+        ThinFramesGlasses,                 *,                                          *,                   200,               100
+        ThickFramesGlasses,                *,                                          *,                   230,               110
+        DesignerGlasses,                   *,                                          *,                   1300,              550
+        AviatorGlasses,                    *,                                          *,                   400,               200
+        TacticalGoggles,                   *,                                          *,                   1600,              700
+        NVGHeadstrap,                      *,                                          *,                   2000,              1200
+
+<OpenFile> z_Vehicles.txt			// Links to another File; Must be right above <FileEnd>!
+<FileEnd>							// This has to be on the End of this File and is very importand!

@@ -1,0 +1,15 @@
+<Trader> Weapon Supplies Trader
+    <Category> Ammunition
+        // CLASS NAME                      // DISPLAY NAME (* FOR DEFAULT)             // QTY               //BUY              //SELL
+        AmmoBox_00buck_10rnd,              *,                                         *,                   240,                100
+        AmmoBox_12gaSlug_10Rnd,            *,                                         *,                   320,                200
+        AmmoBox_22_50Rnd,                  *,                                         *,                   600,                200
+        AmmoBox_380_35rnd,                 *,                                         *,                   280,                140
+        AmmoBox_9x19_25rnd,                *,                                         *,                   200,                100
+        AmmoBox_9x39_20Rnd,                *,                                         *,                   320,                200
+        AmmoBox_9x39AP_20Rnd,              *,                                         *,                   800,                600
+        AmmoBox_45ACP_25rnd,               *,                                         *,                   200,                100
+        AmmoBox_46x30_25rnd,               *,                                         *,                   200,                100
+
+<OpenFile> z_Clothing.txt			// Links to another File; Must be right above <FileEnd>!
+<FileEnd>							// This has to be on the End of this File and is very importand!
