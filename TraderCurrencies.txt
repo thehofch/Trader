@@ -1,7 +1,6 @@
 // Consume Trader
-<CurrencyName> #tm_ruble							            
-    <Currency> Money_Ruble1,         1					
-    <Currency> Money_Ruble5,         5
+<CurrencyName> #tm_ruble
+    <Currency> Money_Ruble1,         1
     <Currency> Money_Ruble10,        10
     <Currency> Money_Ruble50,        50
     <Currency> Money_Ruble100,       100
@@ -12,9 +11,8 @@
     <Currency> Money_Ruble5000,      5000
 
 // Misc Building
-<CurrencyName> #tm_ruble							            
-    <Currency> Money_Ruble1,         1					
-    <Currency> Money_Ruble5,         5
+<CurrencyName> #tm_ruble
+    <Currency> Money_Ruble1,         1
     <Currency> Money_Ruble10,        10
     <Currency> Money_Ruble50,        50
     <Currency> Money_Ruble100,       100
@@ -25,9 +23,8 @@
     <Currency> Money_Ruble5000,      5000
 
 // Weapons
-<CurrencyName> #tm_ruble							            
-    <Currency> Money_Ruble1,         1					
-    <Currency> Money_Ruble5,         5
+<CurrencyName> #tm_ruble
+    <Currency> Money_Ruble1,         1
     <Currency> Money_Ruble10,        10
     <Currency> Money_Ruble50,        50
     <Currency> Money_Ruble100,       100
@@ -38,9 +35,8 @@
     <Currency> Money_Ruble5000,      5000
 
 // Ammo
-<CurrencyName> #tm_ruble							            
-    <Currency> Money_Ruble1,         1					
-    <Currency> Money_Ruble5,         5
+<CurrencyName> #tm_ruble
+    <Currency> Money_Ruble1,         1
     <Currency> Money_Ruble10,        10
     <Currency> Money_Ruble50,        50
     <Currency> Money_Ruble100,       100
@@ -51,9 +47,8 @@
     <Currency> Money_Ruble5000,      5000
 
 // Clothes
-<CurrencyName> #tm_ruble							            
-    <Currency> Money_Ruble1,         1					
-    <Currency> Money_Ruble5,         5
+<CurrencyName> #tm_ruble
+    <Currency> Money_Ruble1,         1	
     <Currency> Money_Ruble10,        10
     <Currency> Money_Ruble50,        50
     <Currency> Money_Ruble100,       100
@@ -65,8 +60,7 @@
 
 // Cars
 <CurrencyName> #tm_ruble							            
-    <Currency> Money_Ruble1,         1					
-    <Currency> Money_Ruble,          5
+    <Currency> Money_Ruble1,         1
     <Currency> Money_Ruble10,        10
     <Currency> Money_Ruble50,        50
     <Currency> Money_Ruble100,       100
