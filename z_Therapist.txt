@@ -1,5 +1,26 @@
 
 <Trader> Therapist
+    <Category> Medical Supplies
+        BandageDressing, *, 4, 100, 30
+        BloodTestKit, *, *, 100, 20
+        Thermometer, *, *, 50, 5
+        DisinfectantSpray, *, *, 850, 5
+        Heatpack, *, *, 10, 5
+        StartKitIV, *, *, 10, 6
+        SalineBag, *, *, 15, 8
+        BloodBagEmpty, *, *, 18, 10
+        FirstAidKit, *, *, 200, 20
+        Defibrillator, *, *, *, 5000, 3500
+        
+    <Category> Medications
+        CharcoalTablets, *, *, 10, 1
+        DisinfectantAlcohol, *, *, 50, 2
+        VitaminBottle, *, *, 100, 4
+        TetracyclineAntibiotics, *, *, 1000, 300
+        PainkillerTablets, *, *, 200, 6
+        Epinephrine, *, *, 200, 50
+        Morphine, *, *, 800, 100
+
     <Category> Drinks
         Cola, *, *, 150, -1
         Cola_Cherry, *, *, 150, -1
@@ -31,7 +52,7 @@
         KidneybeansCan, * , *, 400, -1
         SlicedbeetsCan, * , *, 400, -1
         SlicedpineappleCan, * , *, 400, -1
-    <Category> Vegetables & fruits           
+    <Category> Vegetables & fruits
         CaninaBerry, *, *, 111, -1
         SambucusBerry,  *,  *, 100, -1
         Plum, *, *, 100, 50
@@ -53,7 +74,7 @@
         PsilocybeMushroom, *, *, 2000, 1000
         AuriculariaMushroom, *, *, 2000, 1000
         BoletusMushroom, *, *, 2000, 1000
-        PleurotusMushroom, *, *, 2000, 1000
-	
+        PleurotusMushroom, *, *, 2000, 1000 
+
 <OpenFile> z_Builder.txt		// Links to another File; Must be right above <FileEnd>!
 <FileEnd>						// This has to be on the End of this File and is very importand!
