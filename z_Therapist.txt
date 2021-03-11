@@ -1,36 +1,36 @@
 
 <Trader> Therapist
     <Category> Drinks
-        Cola, *, 1, 150, -1
-        Cola_Cherry, *, 1, 150, -1
-        Cola_Light, *, 1, 150, -1
-        MonsterEnergy1, *, 1, 350, -1
-        MonsterEnergy2, *, 1, 350, -1
-        MonsterEnergy3, *, 1, 350, -1
-        MonsterEnergy4, *, 1, 350, -1
-        MonsterEnergy5, *, 1, 350, -1
-        MonsterEnergy6, *, 1, 350, -1
-        MonsterEnergy7, *, 1, 350, -1
-        MonsterEnergy8, *, 1, 350, -1
-        MTN_Dew, *, 1, 150, -1
-        MTN_Dew2, *, 1, 150, -1
-        Pepsi, *, 1, 150, -1
-        Pepsi2, *, 1, 150, -1
-        Pepsi_Light, *, 1, 150, -1
-        Fanta, *, 1, 150, -1
-        Sprite, *, 1, 150, -1
-        Bottle_Milk, 1, 150, -1
-        Bottle_Cola, 1, 150, -1
-        Bottle_Pepsi, 1, 150, -1
+        Cola, *, *, 150, -1
+        Cola_Cherry, *, *, 150, -1
+        Cola_Light, *, *, 150, -1
+        MonsterEnergy1, *, *, 350, -1
+        MonsterEnergy2, *, *, 350, -1
+        MonsterEnergy3, *, *, 350, -1
+        MonsterEnergy4, *, *, 350, -1
+        MonsterEnergy5, *, *, 350, -1
+        MonsterEnergy6, *, *, 350, -1
+        MonsterEnergy7, *, *, 350, -1
+        MonsterEnergy8, *, *, 350, -1
+        MTN_Dew, *, *, 150, -1
+        MTN_Dew2, *, *, 150, -1
+        Pepsi, *, *, 150, -1
+        Pepsi2, *, *, 150, -1
+        Pepsi_Light, *, *, 150, -1
+        Fanta, *, *, 150, -1
+        Sprite, *, *, 150, -1
+        Bottle_Milk, *, *, 150, -1
+        Bottle_Cola, *, *, 150, -1
+        Bottle_Pepsi, *, *, 150, -1
     <Category> Food
-        BlackOlivesCan, *, 400, -1
-        CookedSpinachCan, *, 400, -1
-        FavabeansCan, *, 400, -1
-        FruitcocktailCan, *, 400, -1
-        GreenbeansCan, *, 400, -1
-        KidneybeansCan, *, 400, -1
-        SlicedbeetsCan, *, 400, -1
-        SlicedpineappleCan, *, 400, -1
+        BlackOlivesCan, * , *, 400, -1
+        CookedSpinachCan, * , *, 400, -1
+        FavabeansCan, * , *, 400, -1
+        FruitcocktailCan, * , *, 400, -1
+        GreenbeansCan, * , *, 400, -1
+        KidneybeansCan, * , *, 400, -1
+        SlicedbeetsCan, * , *, 400, -1
+        SlicedpineappleCan, * , *, 400, -1
     <Category> Vegetables & fruits           
         CaninaBerry, *, *, 111, -1
         SambucusBerry,  *,  *, 100, -1
