@@ -81,3 +81,7 @@
     <Currency> Money_Ruble1000,      1000
     <Currency> Money_Ruble2000,      2000
     <Currency> Money_Ruble5000,      5000
+
+// Black market trader
+<CurrencyName> Bitcoin
+    <Currency> Bitcoin,         1

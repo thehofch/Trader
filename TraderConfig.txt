@@ -17,6 +17,8 @@
 
 // 7 = Forex Trader
 
+// 8 = Black Market trader
+
 // Quantity * means max value;
 // Quantity V means Vehicle;
 // Quantity VNK means Vehicle without Key;

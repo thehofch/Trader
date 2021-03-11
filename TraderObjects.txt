@@ -57,15 +57,17 @@
 <VehicleSpawnOri>		-90,		0,			0
 
 
-// Ebenya
+// Berezhki
 
 <TraderMarker> 			7
 <TraderMarkerPosition>	15121.066406, 9.534022, 13809.273438
 <TraderMarkerSafezone>	0.5
 
-//ADD DRUG DEALER HERE ID 8
-// <TraderMarker> 			8
+// Ebenya
 
+<TraderMarker> 			8
+<TraderMarkerPosition>	259.990967, 187.147705, 6593.747070
+<TraderMarkerSafezone>	0.5
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
 	
@@ -456,11 +458,23 @@
 <ObjectPosition> 8360.15, 292.054, 5994.15
 <ObjectOrientation> 325, 0, 0
 
-// Ebenya
+// Berezhki
 
 <Object> 			SurvivorM_Jose
 <ObjectPosition>	15121.066406, 9.534022, 13809.273438
 <ObjectOrientation>	0, 0, 0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+// Ebenya
+
+<Object> 			SurvivorM_Jose
+<ObjectPosition>	259.990967, 187.147705, 6593.747070
+<ObjectOrientation>	90, 0, 0
 <ObjectAttachment>	LugWrench
 <ObjectAttachment>	WorkingGloves_Black
 <ObjectAttachment>	ReflexVest

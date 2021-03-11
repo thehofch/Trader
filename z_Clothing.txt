@@ -1,6 +1,6 @@
 <Trader> Clothing Trader
     <Category> Glasses
-        SportGlasses_Orange, *, *, 170,
+        SportGlasses_Orange, *, *, 170, 90
         SportGlasses_Blue, *, *, 180, 90
         SportGlasses_Black, *, *, 200, 100
         SportGlasses_Green, *, *, 200, 100
