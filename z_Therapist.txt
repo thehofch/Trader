@@ -10,7 +10,7 @@
         SalineBag, *, *, 15, 8
         BloodBagEmpty, *, *, 18, 10
         FirstAidKit, *, *, 200, 20
-        Defibrillator, *, *, *, 5000, 3500
+        Defibrillator, *, *, 5000, 3500
         
     <Category> Medications
         CharcoalTablets, *, *, 10, 1
