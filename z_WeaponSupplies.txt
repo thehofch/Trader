@@ -10,7 +10,6 @@
         AmmoBox_9x39AP_20Rnd,              *,                                         *,                   800,                600
         AmmoBox_45ACP_25rnd,               *,                                         *,                   200,                100
         AmmoBox_46x30_25rnd,               *,                                         *,                   200,                100
-        Ammo_308Win, 200 Bullets of .308 Win, 200, 5000, 2000
 
 <OpenFile> z_Clothing.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
