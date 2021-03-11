@@ -61,7 +61,7 @@
 
 <TraderMarker> 			7
 <TraderMarkerPosition>	15121.066406, 9.534022, 13809.273438
-<TraderMarkerSafezone>	30
+<TraderMarkerSafezone>	0.5
 
 //ADD DRUG DEALER HERE ID 8
 // <TraderMarker> 			8
