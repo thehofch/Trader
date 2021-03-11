@@ -1,3 +1,4 @@
 <Trader> Black market trader
     <Category> Test
         SportGlasses_Orange, *, *, 2, 1
+<FileEnd>
