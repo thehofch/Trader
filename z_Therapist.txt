@@ -1,0 +1,59 @@
+
+<Trader> Therapist
+    <Category> Drinks
+        Cola, *, 1, 150, -1
+        Cola_Cherry, *, 1, 150, -1
+        Cola_Light, *, 1, 150, -1
+        MonsterEnergy1, *, 1, 350, -1
+        MonsterEnergy2, *, 1, 350, -1
+        MonsterEnergy3, *, 1, 350, -1
+        MonsterEnergy4, *, 1, 350, -1
+        MonsterEnergy5, *, 1, 350, -1
+        MonsterEnergy6, *, 1, 350, -1
+        MonsterEnergy7, *, 1, 350, -1
+        MonsterEnergy8, *, 1, 350, -1
+        MTN_Dew, *, 1, 150, -1
+        MTN_Dew2, *, 1, 150, -1
+        Pepsi, *, 1, 150, -1
+        Pepsi2, *, 1, 150, -1
+        Pepsi_Light, *, 1, 150, -1
+        Fanta, *, 1, 150, -1
+        Sprite, *, 1, 150, -1
+        Bottle_Milk, 1, 150, -1
+        Bottle_Cola, 1, 150, -1
+        Bottle_Pepsi, 1, 150, -1
+    <Category> Food
+        BlackOlivesCan, *, 400, -1
+        CookedSpinachCan, *, 400, -1
+        FavabeansCan, *, 400, -1
+        FruitcocktailCan, *, 400, -1
+        GreenbeansCan, *, 400, -1
+        KidneybeansCan, *, 400, -1
+        SlicedbeetsCan, *, 400, -1
+        SlicedpineappleCan, *, 400, -1
+    <Category> Vegetables & fruits           
+        CaninaBerry, *, *, 111, -1
+        SambucusBerry,  *,  *, 100, -1
+        Plum, *, *, 100, 50
+        Kiwi, *, *, 100, 50
+        Apple, *, *, 100, 50
+        Pear, *, *, 100, 50
+        Orange, *, *, 100, 50
+        Banana, *, *, 100, 50
+        Tomato, *, *, 100, 50
+        Potato, *, *, 100, 50
+        GreenBellPepper, *, *, 100, 50
+        Zucchini, *, *, 300, 100
+        Pumpkin, *, *, 800, 300
+    <Category> Mushrooms
+        AgaricusMushroom, *, *, 2000, 1000
+        AmanitaMushroom, *, *, 2000, 1000
+        LactariusMushroom, *, *, 2000, 1000
+        MacrolepiotaMushroom, *, *, 2000, 1000
+        PsilocybeMushroom, *, *, 2000, 1000
+        AuriculariaMushroom, *, *, 2000, 1000
+        BoletusMushroom, *, *, 2000, 1000
+        PleurotusMushroom, *, *, 2000, 1000
+	
+<OpenFile> z_Builder.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>						// This has to be on the End of this File and is very importand!
