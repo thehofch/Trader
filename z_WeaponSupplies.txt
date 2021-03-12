@@ -238,14 +238,44 @@
         FOX_HB_Suppressor, *, *, 1500, 150
         FOX_HB_hndgrd, *, *, 1500, 150
         FOX_HB_Bttstck, *, *, 1500, 150
+        FOX_HK417_hndgrd_snow
+        FOX_HK417_hndgrd_olive
+        FOX_HK417_hndgrd_tan
+        FOX_HK417_hndgrd
+        FOX_HK417_Bttstck_snow
+        FOX_HK417_Bttstck_olive
+        FOX_HK417_Bttstck_tan
+        FOX_HK417_Bttstck
+        FOX_HK416D_Bttstck_snow
+        FOX_HK416D_Bttstck_olive
+        FOX_HK416D_Bttstck_sand
+        FOX_HK416D_Bttstck
+        FOX_HK416D_hndgrd_snow
+        FOX_HK416D_hndgrd_olive
+        FOX_HK416D_hndgrd_sand
+        FOX_HK416D_hndgrd
+        FOX_HK416A7_Bttstck_camo_smr
+        FOX_HK416A7_Bttstck_camo_wnr
+        FOX_HK416A7_Bttstck_camo_atn
+        FOX_HK416A7_Bttstck
+        FOX_HK416A7_hndgrd_wnr
+        FOX_HK416A7_hndgrd_atn
+        FOX_HK416A7_hndgrd_smr
+        FOX_HK416A7_hndgrd
 
     <Category> Fox ammo
-        57x28_AmmoBox_25rnd, *, *, 500, 50
+        
         Ammo_57x28, *, 10, 200, 2
-        57x28AP_AmmoBox_25rnd, *, *, 500, 50
         Ammo_57x28AP, *, 10, 200, 2
-        9x18_AmmoBox_35rnd, *, *, 500, 50
         Ammo_9x18, *, 10, 200, 2
+        Ammo_AACBLK
+
+
+        9x18_AmmoBox_35rnd, *, *, 500, 50
+        57x28_AmmoBox_25rnd, *, *, 500, 50
+        57x28AP_AmmoBox_25rnd, *, *, 500, 50
+        AACBLK_AmmoBox_20rnd
+
 
     <Category> Fox mags
         FOX_Mag_APS, *, M, 1500, 150
@@ -261,6 +291,18 @@
         FOX_Mag_FAL_30rnd, *, M, 1900, 190
         FOX_Mag_Stanag_60rnd, *, M, 2500, 250
         FOX_Mag_Stanag_60rnd_Black, *, M, 2500, 250
+        FOX_mag_ak74_60rnd_green
+        FOX_mag_ak74_60rnd
+        FOX_mag_ak74_45rnd
+        FOX_Mag_HB_30rnd_gray
+        FOX_Mag_HB_30rnd_green
+        FOX_Mag_HB_30rnd_brown
+        FOX_Mag_HB_30rnd
+        FOX_Mag_HK417_20rnd_Olive
+        FOX_Mag_HK417_20rnd_Brown
+        FOX_Mag_HK417_20rnd_Snow
+        FOX_Mag_HK417_20rnd
+        
 
 <OpenFile> z_Clothing.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
