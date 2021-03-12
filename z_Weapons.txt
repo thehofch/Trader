@@ -100,8 +100,8 @@
         FOX_MP443, *, W, 5500, 550
         FOX_ASVAL, *, W, 15000, 1500
         FOX_VSS, *, W, 25000, 2500
-        FOX_VSS_GREEN
-        
+        FOX_VSS_GREEN, *, W, 15000, 1500
+
         FOX_AKS74UN, *, W, 15000, 1500
         FOX_SVD, *, W, 28000, 2800
         FOX_SVDM, *, W, 28000, 2800
@@ -118,22 +118,22 @@
         FOX_HONEY_BADGER_TAN, *, W, 25000, 2500
         FOX_HONEY_BADGER_OLIVE, *, W, 25000, 2500
         FOX_HONEY_BADGER, *, W, 25000, 2500
-        FOX_HK417_SNOW
-        FOX_HK417_OLIVE
-        FOX_HK417_BROWN
-        FOX_HK417
-        FOX_HK416D_CQB_SNOW
-        FOX_HK416D_CQB_OLIVE
-        FOX_HK416D_CQB_SAND
+        FOX_HK417_SNOW, *, W, 15000, 1500
+        FOX_HK417_OLIVE, *, W, 15000, 1500
+        FOX_HK417_BROWN, *, W, 15000, 1500
+        FOX_HK417, *, W, 15000, 1500
+        FOX_HK416D_CQB_SNOW, *, W, 15000, 1500
+        FOX_HK416D_CQB_OLIVE, *, W, 15000, 1500
+        FOX_HK416D_CQB_SAND, *, W, 15000, 1500
         FOX_HK416D_CQB, *, W, 15000, 1500
-        FOX_HK416D_SNOW
+        FOX_HK416D_SNOW, *, W, 15000, 1500
         FOX_HK416D, *, W, 15000, 1500
-        FOX_HK416D_OLIVE
-        FOX_HK416D_SAND
+        FOX_HK416D_OLIVE, *, W, 15000, 1500
+        FOX_HK416D_SAND, *, W, 15000, 1500
         FOX_HK416A7_CAMO_WINTER
         FOX_HK416A7_CAMO_SUMMER
         FOX_HK416A7_CAMO_AUTUMN
-        FOX_HK416A7
+        FOX_HK416A7, *, W, 15000, 1500
 
 
 <OpenFile> z_WeaponSupplies.txt		// Links to another File; Must be right above <FileEnd>!
