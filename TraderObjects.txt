@@ -462,7 +462,7 @@
 
 <Object> 			SurvivorM_Jose
 <ObjectPosition>	15121.066406, 9.534022, 13809.273438
-<ObjectOrientation>	0, 0, 0
+<ObjectOrientation>	90, 0, 0
 <ObjectAttachment>	LugWrench
 <ObjectAttachment>	WorkingGloves_Black
 <ObjectAttachment>	ReflexVest
