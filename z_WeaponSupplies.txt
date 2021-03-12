@@ -21,7 +21,12 @@
         Ammo_FlareBlue,         *, 1,      15,     7
         Ammo_FlareGreen,       *,  1,      15,     7
         Ammo_FlareRed,          *, 1,      15,     7
-        Ammo_762x54Tracer,      *, 1,      20,     12    
+        Ammo_762x54Tracer,      *, 1,      20,     12
+        KOD_Ammo_338,				*, 1,			5,	1
+        KOD_Ammo_50BMG,				*, 1,			5,	1
+        KOD_Ammo_40lw,				*, 1,			5,	1
+        KOD_Ammo_792x57,			*, 1,		    5,	1
+		Ammo_50CalBW,				*, 1,		    5,	1  
         // When changing Prices here keep in Mind that Players
         // can just unpack the Ammoboxes and sell the Ammo seperatly!
         // Originally the Ammoboxes buying Price is 20% less than
@@ -75,6 +80,30 @@
         Mag_SVD_10Rnd,          *, M,      250,    125
         Mag_308WinSnaploader_2Rnd,      *, M,      250,    125
         Mag_Deagle_9rnd,        *, M,      250,    125
+        Mag_SKS_20rnd,				            *, M,		5,	1
+	    Mag_KOD_DrumShotgun_30rnd,				*, M,		5,	1
+	    Mag_KOD_VR80_10Rnd,				        *, M,		5,	1
+        Mag_KOD_VR80_30Rnd,				        *, M,		5,	1
+        Mag_KOD_SCARH_20Rnd,				*, M,		5,	1
+        Mag_KOD_SCARH_30Rnd,				*, M,		5,	1
+        Mag_KOD_Ruger_5Rnd,				*, M,		5,	1
+        Mag_KOD_RSASS_20Rnd,				*, M,		5,	1
+        Mag_KOD_R700_7Rnd,				*, M,		5,	1
+        Mag_KOD_PKM_100Rnd,				*, M,		5,	1
+        Mag_KOD_M82A2_10Rnd,				*, M,		5,	1
+        Mag_KOD_M110_10Rnd,				*, M,		5,	1
+        Mag_KOD_M110_20Rnd,				*, M,		5,	1
+        Mag_KOD_HK417_20Rnd,				*, M,		5,	1
+        Mag_KOD_DVL10M1_5Rnd,				*, M,		5,	1
+        Mag_KOD_DVL10_5Rnd,				*, M,		5,	1
+        Mag_KOD_AX50_5Rnd,				*, M,		5,	1
+        Mag_KOD_AWM_5Rnd,				*, M,		5,	1
+        Mag_KOD_ASH12_20Rnd,				*, M,		5,	1
+        Mag_KOD_Beowulf_10Rnd,				*, M,		5,	1
+        Mag_KOD_AKALPHA_30Rnd,				*, M,		5,	1
+        Mag_KOD_AK47_20Rnd,				*, M,		5,	1
+        Mag_KOD_RPK16_96Rnd,				*, M,		5,	1
+		Mag_KOD_Drum308_50Rnd,				*, M,		5,	1
         
     <Category> Handguards
         MP5_PlasticHndgrd,      *,      100,    50
@@ -100,6 +129,8 @@
         M4_OEBttstck,           *,      150,    75
         M4_CQBBttstck,          *,      150,    75
         M4_MPBttstck,           *,      150,    75
+        KOD_AR15Skeleton_Buttstock,				*, *,		5,	1 
+		KOD_AK_Bttstck,				            *, *,		5,	1
     
     <Category> Optics
         M4_CarryHandleOptic,    *,      150,    60
@@ -115,11 +146,17 @@
         PSO1Optic,              *,      1100,   600 
         PSO11Optic,             *,      1400,   840
         KazuarOptic,            *,      2200,   1400
+        KOD_AWM_Scope,			*, *,	2005,	1900
     
     <Category> Supressors
         PistolSuppressor,       *,      150,    75
         AK_Suppressor,          *,      250,    125
         M4_Suppressor,          *,      250,    125
+        KOD_M82A2_Suppressor_Black,				*, *,		5,	1
+		KOD_M82A2_Suppressor_Tan,				*, *,		5,	1
+		KOD_M82A2_Suppressor_Grey,				*, *,		5,	1
+		KOD_AWM_Suppressor,				        *, *,		5,	1
+		KOD_Suppressor_308,				        *, *,		5,	1
         
     <Category> Compensators
         Mosin_Compensator,      *,      150,    75

@@ -1,85 +1,35 @@
 <Trader> Black market trader
-    <Category>RIFLES
-		KOD_AEK971,				*, W,		5,	1
-        KOD_MP5SD,				*, W,		5,	1
-        KOD_RPK16,				*, W,		5,	1
-        KOD_SVD_Wood,				*, W,		5,	1
-        KOD_FAL_Wood,				*, W,		5,	1
-        KOD_AK47,				*, W,		5,	1
-        KOD_AK15,				*, W,		5,	1
-        KOD_AKALPHA,				*, W,		5,	1
-        KOD_Beowulf,				*, W,		5,	1
-        KOD_ASH12,				*, W,		5,	1
-        KOD_AWM,				*, W,		5,	1
-        KOD_AX50,				*, W,		5,	1
-        KOD_DVL10,				*, W,		5,	1
-        KOD_DVL10M1,				*, W,		5,	1
-        KOD_HK417,				*, W,		5,	1
-        KOD_K98,				*, W,		5,	1
-        KOD_M110_Tan,				*, W,		5,	1
-        KOD_M110_Black,				*, W,		5,	1
-        KOD_M16A4,				*, W,		5,	1
-        KOD_M82A2_Grey,				*, W,		5,	1
-        KOD_M82A2_Black,				*, W,		5,	1
-        KOD_M82A2_Tan,				*, W,		5,	1
-        KOD_PKM,				*, W,		5,	1
-        KOD_R700,				*, W,		5,	1
-        KOD_RSASS_Tan,				*, W,		5,	1
-        KOD_Ruger,				*, W,		5,	1
-        KOD_SCARH,				*, W,		5,	1
-        KOD_VR80,				*, W,		5,	1
-		KOD_AR15Skeleton,				*, W,		5,	1
-		KOD_DrumShotgun,				*, W,		5,	1
-		KOD_SKS,				*, W,		5,	1
-		KOD_FAMAS,				*, W,		5,	1
-		
-	<Category>BUTT STOCK
-        KOD_AR15Skeleton_Buttstock,				*, *,		5,	1 
-		KOD_AK_Bttstck,				            *, *,		5,	1
+    <Category>Wunderwaffen
+		KOD_AEK971,				*, W,		5, -1
+        KOD_MP5SD,				*, W,		5, -1
+        KOD_RPK16,				*, W,		5, -1
+        KOD_SVD_Wood,				*, W,		5, -1
+        KOD_FAL_Wood,				*, W,		5, -1
+        KOD_AK47,				*, W,		5, -1
+        KOD_AK15,				*, W,		5, -1
+        KOD_AKALPHA,				*, W,		5, -1
+        KOD_Beowulf,				*, W,		5, -1
+        KOD_ASH12,				*, W,		5, -1
+        KOD_AWM,				*, W,		5, -1
+        KOD_AX50,				*, W,		15, -1
+        KOD_DVL10,				*, W,		5, -1
+        KOD_DVL10M1,				*, W,		5, -1
+        KOD_HK417,				*, W,		5, -1
+        KOD_K98,				*, W,		5, -1
+        KOD_M110_Tan,				*, W,		5, -1
+        KOD_M110_Black,				*, W,		5, -1
+        KOD_M16A4,				*, W,		5, -1
+        KOD_M82A2_Grey,				*, W,		5, -1
+        KOD_M82A2_Black,				*, W,		5, -1
+        KOD_M82A2_Tan,				*, W,		5, -1
+        KOD_PKM,				*, W,		15, -1
+        KOD_R700,				*, W,		5, -1
+        KOD_RSASS_Tan,				*, W,		5, -1
+        KOD_Ruger,				*, W,		5, -1
+        KOD_SCARH,				*, W,		5, -1
+        KOD_VR80,				*, W,		5, -1
+		KOD_AR15Skeleton,				*, W,		5, -1
+		KOD_DrumShotgun,				*, W,		5, -1
+		KOD_SKS,				*, W,		5, -1
+		KOD_FAMAS,				*, W,		5, -1
 
-
-		
-	<Category>MAGAZINES
-	    Mag_SKS_20rnd,				            *, M,		5,	1
-	    Mag_KOD_DrumShotgun_30rnd,				*, M,		5,	1
-	    Mag_KOD_VR80_10Rnd,				        *, M,		5,	1
-        Mag_KOD_VR80_30Rnd,				        *, M,		5,	1
-        Mag_KOD_SCARH_20Rnd,				*, M,		5,	1
-        Mag_KOD_SCARH_30Rnd,				*, M,		5,	1
-        Mag_KOD_Ruger_5Rnd,				*, M,		5,	1
-        Mag_KOD_RSASS_20Rnd,				*, M,		5,	1
-        Mag_KOD_R700_7Rnd,				*, M,		5,	1
-        Mag_KOD_PKM_100Rnd,				*, M,		5,	1
-        Mag_KOD_M82A2_10Rnd,				*, M,		5,	1
-        Mag_KOD_M110_10Rnd,				*, M,		5,	1
-        Mag_KOD_M110_20Rnd,				*, M,		5,	1
-        Mag_KOD_HK417_20Rnd,				*, M,		5,	1
-        Mag_KOD_DVL10M1_5Rnd,				*, M,		5,	1
-        Mag_KOD_DVL10_5Rnd,				*, M,		5,	1
-        Mag_KOD_AX50_5Rnd,				*, M,		5,	1
-        Mag_KOD_AWM_5Rnd,				*, M,		5,	1
-        Mag_KOD_ASH12_20Rnd,				*, M,		5,	1
-        Mag_KOD_Beowulf_10Rnd,				*, M,		5,	1
-        Mag_KOD_AKALPHA_30Rnd,				*, M,		5,	1
-        Mag_KOD_AK47_20Rnd,				*, M,		5,	1
-        Mag_KOD_RPK16_96Rnd,				*, M,		5,	1
-		Mag_KOD_Drum308_50Rnd,				*, M,		5,	1
-	
-	<Category>AMMO
-		KOD_Ammo_338,				*, 10,			5,	1
-        KOD_Ammo_50BMG,				*, 10,			5,	1
-        KOD_Ammo_40lw,				*, 10,			5,	1
-        KOD_Ammo_792x57,			*, 10,		    5,	1
-		Ammo_50CalBW,				*, 10,		    5,	1
-		
-		
-	<Category>SCOPE
-	    KOD_AWM_Scope,				*, *,		5,	1
-		
-	<Category>SUPPRESSOR
-		KOD_M82A2_Suppressor_Black,				*, *,		5,	1
-		KOD_M82A2_Suppressor_Tan,				*, *,		5,	1
-		KOD_M82A2_Suppressor_Grey,				*, *,		5,	1
-		KOD_AWM_Suppressor,				        *, *,		5,	1
-		KOD_Suppressor_308,				        *, *,		5,	1
-<FileEnd>
