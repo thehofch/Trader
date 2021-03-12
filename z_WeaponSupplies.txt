@@ -207,6 +207,57 @@
         
     <Category> Flashlights
         Universallight,         *,      120,    60
+    
+    <Category> Fox spare parts
+        FOX_APS_Suppressor, *, *, 1500, 150
+        FOX_ASVAL_Bttstck, *, *, 1500, 150
+        FOX_VSS_Suppressor, *, *, 1500, 150
+        FOX_AKS74U_hndgrd, *, *, 1500, 150
+        FOX_AKS74URIS_hndgrd, *, *, 1500, 150
+        FOX_AK_BttstckTac, *, *, 1500, 150
+        FOX_SVD_Suppressor, *, *, 1500, 150
+        FOX_SVD_hndgrd, *, *, 1500, 150
+        FOX_SVDS_hndgrd, *, *, 1500, 150
+        FOX_EVO_hndgrd, *, *, 1500, 150
+        FOX_EVO_Bttstck, *, *, 1500, 150
+        FOX_M16A3_hndgrd, *, *, 1500, 150
+        FOX_M16A3_RIShndgrd, *, *, 1500, 150
+        FOX_HK416A7_hndgrd, *, *, 1500, 150
+        FOX_HK416A7_Bttstck, *, *, 1500, 150
+        FOX_HK416D_hndgrd, *, *, 1500, 150
+        FOX_HK416D_Bttstck, *, *, 1500, 150
+        FOX_HK417_Bttstck, *, *, 1500, 150
+        FOX_HK417_hndgrd, *, *, 1500, 150
+        FOX_FNFAL_hndgrd, *, *, 1500, 150
+        FOX_FNFAL_hndgrd_rail, *, *, 1500, 150
+        FOX_FNFAL_Bttstck, *, *, 1500, 150
+        FOX_FNFAL_hndgrd_para, *, *, 1500, 150
+        FOX_FNFAL_BttstckPara, *, *, 1500, 150
+        FOX_FNFAL_BttstckPolimer, *, *, 1500, 150
+        FOX_308_Suppressor, *, *, 1500, 150
+
+    <Category> Fox ammo
+        57x28_AmmoBox_25rnd, *, *, 500, 50
+        Ammo_57x28, *, 10, 200, 2
+        57x28AP_AmmoBox_25rnd, *, *, 500, 50
+        Ammo_57x28AP, *, 10, 200, 2
+        9x18_AmmoBox_35rnd, *, *, 500, 50
+        Ammo_9x18, *, 10, 200, 2
+
+    <Category> Fox mags
+        FOX_Mag_APS, *, M, 1500, 150
+        FOX_Mag_PM, *, M, 1500, 150
+        FOX_Mag_MP443, *, M, 1500, 150
+        FOX_Mag_ASVAL_20Rnd, *, M, 1500, 150
+        FOX_Mag_FN57_20Rnd, *, M, 1500, 150
+        FOX_Mag_FN57_30Rnd, *, M, 2000, 200
+        FOX_Mag_EVO, *, M, 1500, 150
+        FOX_Mag_HK417_20rnd, *, M, 1500, 150
+        FOX_Mag_FAL_10rnd, *, M, 1500, 150
+        FOX_Mag_FAL_20rnd, *, M, 1700, 170
+        FOX_Mag_FAL_30rnd, *, M, 1900, 190
+        FOX_Mag_Stanag_60rnd, *, M, 2500, 250
+        FOX_Mag_Stanag_60rnd_Black, *, M, 2500, 250
 
 <OpenFile> z_Clothing.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
