@@ -112,7 +112,11 @@
         FOX_HK417, *, W, 25000, 2500
         FOX_FNFAL, *, W, 25000, 2500
         FOX_FNFAL_TAC, *, W, 25000, 2500
-        FOX_FNFAL_PARA *, W, 25000, 2500
+        FOX_FNFAL_PARA, *, W, 25000, 2500
+        FOX_HONEY_BADGER_SNOW, *, W, 25000, 2500
+        FOX_HONEY_BADGER_TAN, *, W, 25000, 2500
+        FOX_HONEY_BADGER_OLIVE, *, W, 25000, 2500
+        FOX_HONEY_BADGER, *, W, 25000, 2500
 
 <OpenFile> z_WeaponSupplies.txt		// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!

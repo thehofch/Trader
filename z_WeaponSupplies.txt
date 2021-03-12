@@ -235,6 +235,9 @@
         FOX_FNFAL_BttstckPara, *, *, 1500, 150
         FOX_FNFAL_BttstckPolimer, *, *, 1500, 150
         FOX_308_Suppressor, *, *, 1500, 150
+        FOX_HB_Suppressor, *, *, 1500, 150
+        FOX_HB_hndgrd, *, *, 1500, 150
+        FOX_HB_Bttstck, *, *, 1500, 150
 
     <Category> Fox ammo
         57x28_AmmoBox_25rnd, *, *, 500, 50
