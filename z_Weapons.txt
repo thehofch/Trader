@@ -34,8 +34,8 @@
         Mp133Shotgun,           *, W,      3000,    900
         Izh43Shotgun,           *, W,      7000,    2000
         Saiga,                  *, W,      10000,   3000
-        KOD_VR80,				*, W,	   15000,   50000
-		KOD_DrumShotgun,		*, W,	   12000,   50000
+        KOD_VR80,				*, W,	   15000,   7000
+		KOD_DrumShotgun,		*, W,	   12000,   5000
         
     <Category> Submachine Guns
         CZ61,                   *, W,      700,    300
